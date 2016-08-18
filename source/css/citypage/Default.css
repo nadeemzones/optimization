@@ -1,0 +1,59 @@
+﻿.vticker ul {
+    padding: 0;
+}
+
+.vticker li {
+    padding-left: 5px;
+}
+
+.property-amenities > span {
+    display: block;
+    width: 24%;
+    float: left;
+    padding: 4px 0;
+    text-align: center;
+    font-size: 11px;
+    text-transform: uppercase;
+    border: 1px solid #efefef;
+}
+
+.multiselect {
+    width: 200px;
+}
+
+.selectBox {
+    position: relative;
+}
+
+    .selectBox select {
+        width: 100%;
+        font-weight: 700;
+    }
+
+.overSelect {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+}
+
+#checkboxes {
+    display: none;
+    border: 1px #dadada solid;
+}
+
+#checkboxes1 {
+    display: none;
+    border: 1px #dadada solid;
+}
+
+    #checkboxes1 label {
+        display: block;
+        width: 158px;
+    }
+
+#checkboxes label {
+    display: block;
+    width: 158px;
+}
